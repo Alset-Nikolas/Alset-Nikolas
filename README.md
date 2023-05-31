@@ -26,7 +26,7 @@
     
 <br>
     
-![Leetcode Stats](https://leetcard.jacoblin.cool/Alset-Nikolas)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Alset-Nikolas?theme=dark)
 
 <!--
 **Alset-Nikolas/Alset-Nikolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
