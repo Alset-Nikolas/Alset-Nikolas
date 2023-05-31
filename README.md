@@ -6,15 +6,19 @@
 
 <h2>На сегодня мой стек:</h2>
 
-<img src="./static/img/python.svg" height="32"/>
-<img src="./static/img/css3.svg" height="32"/>
-<img src="./static/img/django.svg" height="32"/>
-<img src="./static/img/flask.svg" height="32"/>
-<img src="./static/img/sqlite.svg" height="32"/>
-<img src="./static/img/postgresql.svg" height="32"/>
-<img src="./static/img/jss.svg" height="32"/>
-<img src="./static/img/docker.svg" height="32"/>
-<img src="./static/img/git.svg" height="32"/>
+<div>
+    <img align=top src="./static/img/python.svg" height="32"/>
+    <img align=top src="./static/img/css3.svg" height="32"/>
+    <img align=top src="./static/img/django.svg" height="32"/>
+    <img align=top src="./static/img/flask.svg" height="32"/>
+    <img align=top src="./static/img/sqlite.svg" height="32"/>
+    <img align=top src="./static/img/postgresql.svg" height="32"/>
+    <img align=top src="./static/img/jss.svg" height="32"/>
+    <img align=top src="./static/img/docker.svg" height="32"/>
+    <img align=top src="./static/img/git.svg" height="32"/>
+<div>
+
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alset-Nikolas)](https://git.io/streak-stats)
 
