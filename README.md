@@ -24,7 +24,8 @@
 <div>
     
     
-![](https://leetcard.jacoblin.cool/leetcode?site=cn)
+    
+![Leetcode Stats](https://leetcard.jacoblin.cool/Alset-Nikolas)
 
 <!--
 **Alset-Nikolas/Alset-Nikolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
