@@ -2,11 +2,16 @@
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32">
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Python+backend+разрабочик)](https://git.io/typing-svg)
 
-<h2>На сегодня мой стек:</h2>
-
-<div>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Python+backend+разрабочик">
+</h2>
+<br>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alset-Nikolas&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+</div>
+<br>
+<div align="center">
     <img align=top src="./static/img/python.svg" height="32"/>
     <img align=top src="./static/img/css3.svg" height="32"/>
     <img align=top src="./static/img/django.svg" height="32"/>
@@ -18,11 +23,6 @@
     <img align=top src="./static/img/git.svg" height="32"/>
 <div>
 
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alset-Nikolas)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alset-Nikolas)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Alset-Nikolas/Alset-Nikolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
