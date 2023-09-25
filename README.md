@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Python+backend+разрабочик">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Python+backend+разработчик">
 </h2>
 <br>
 <div align="center">
